@@ -1,4 +1,4 @@
-# FootwearFortress👟
+# FootwearFortress 👟
 
 **FootwearFortress** is an inventory management tool designed to help users manage their shoe inventory efficiently. The tool allows users to view, restock, capture new stock, search for specific items, evaluate stock value, and identify top-selling products.
 
